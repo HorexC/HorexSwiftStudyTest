@@ -51,7 +51,7 @@
 		840CC9971BD4BBE500FB494B /* BasicDataTypeManage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BasicDataTypeManage.swift; sourceTree = "<group>"; };
 		840CC9991BD4BD4F00FB494B /* BasicDataTypeTest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BasicDataTypeTest.playground; sourceTree = "<group>"; };
 		840CC99A1BD4CB9600FB494B /* BasicOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BasicOperators.playground; sourceTree = "<group>"; };
-		842D37661BD4D24500670BE9 /* String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = String.playground; path = ../String.playground; sourceTree = "<group>"; };
+		84F6D01E1BD4D39F0067E0AC /* String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = String.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +102,7 @@
 		840CC9681BD4BA8D00FB494B /* swiftTest */ = {
 			isa = PBXGroup;
 			children = (
-				842D37661BD4D24500670BE9 /* String.playground */,
+				84F6D01E1BD4D39F0067E0AC /* String.playground */,
 				840CC9691BD4BA8D00FB494B /* AppDelegate.swift */,
 				840CC96B1BD4BA8D00FB494B /* ViewController.swift */,
 				840CC96D1BD4BA8D00FB494B /* Main.storyboard */,
