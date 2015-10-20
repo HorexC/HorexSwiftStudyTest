@@ -35,6 +35,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8402907E1BD5E54900B2E635 /* ControlFlow.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ControlFlow.playground; sourceTree = "<group>"; };
+		840290B91BD60FFE00B2E635 /* Functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Functions.playground; sourceTree = "<group>"; };
 		840CC9661BD4BA8D00FB494B /* swiftTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swiftTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		840CC9691BD4BA8D00FB494B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		840CC96B1BD4BA8D00FB494B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -52,6 +54,7 @@
 		840CC9991BD4BD4F00FB494B /* BasicDataTypeTest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BasicDataTypeTest.playground; sourceTree = "<group>"; };
 		840CC99A1BD4CB9600FB494B /* BasicOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BasicOperators.playground; sourceTree = "<group>"; };
 		84F6D01E1BD4D39F0067E0AC /* String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = String.playground; sourceTree = "<group>"; };
+		84F6D01F1BD4E06F0067E0AC /* CollectionTypes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CollectionTypes.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +115,9 @@
 				840CC9971BD4BBE500FB494B /* BasicDataTypeManage.swift */,
 				840CC9991BD4BD4F00FB494B /* BasicDataTypeTest.playground */,
 				840CC99A1BD4CB9600FB494B /* BasicOperators.playground */,
+				84F6D01F1BD4E06F0067E0AC /* CollectionTypes.playground */,
+				8402907E1BD5E54900B2E635 /* ControlFlow.playground */,
+				840290B91BD60FFE00B2E635 /* Functions.playground */,
 			);
 			path = swiftTest;
 			sourceTree = "<group>";
