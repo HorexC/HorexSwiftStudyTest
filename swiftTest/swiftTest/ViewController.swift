@@ -13,6 +13,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let mobile = Mobile(brand: "iPhone", system: "iOS 9.0")
+        let swiftMobile = mobile as SwiftMobile
+        print("\(swiftMobile.brand)")
     }
 
     override func didReceiveMemoryWarning() {
@@ -22,4 +25,3 @@ class ViewController: UIViewController {
 
 
 }
-
