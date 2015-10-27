@@ -14,9 +14,9 @@
 		840CC9741BD4BA8D00FB494B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 840CC9721BD4BA8D00FB494B /* LaunchScreen.storyboard */; };
 		840CC97F1BD4BA8D00FB494B /* swiftTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840CC97E1BD4BA8D00FB494B /* swiftTestTests.swift */; };
 		840CC98A1BD4BA8D00FB494B /* swiftTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840CC9891BD4BA8D00FB494B /* swiftTestUITests.swift */; };
-		840CC9981BD4BBE500FB494B /* BasicDataTypeManage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840CC9971BD4BBE500FB494B /* BasicDataTypeManage.swift */; settings = {ASSET_TAGS = (); }; };
-		8443CB2E1BDDEFC300A8D6A9 /* Mobile.m in Sources */ = {isa = PBXBuildFile; fileRef = 8443CB2D1BDDEFC300A8D6A9 /* Mobile.m */; settings = {ASSET_TAGS = (); }; };
-		8443CB301BDDF00C00A8D6A9 /* SwiftMobile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8443CB2F1BDDF00C00A8D6A9 /* SwiftMobile.swift */; settings = {ASSET_TAGS = (); }; };
+		840CC9981BD4BBE500FB494B /* BasicDataTypeManage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840CC9971BD4BBE500FB494B /* BasicDataTypeManage.swift */; };
+		8443CB2E1BDDEFC300A8D6A9 /* Mobile.m in Sources */ = {isa = PBXBuildFile; fileRef = 8443CB2D1BDDEFC300A8D6A9 /* Mobile.m */; };
+		8443CB301BDDF00C00A8D6A9 /* SwiftMobile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8443CB2F1BDDF00C00A8D6A9 /* SwiftMobile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +64,7 @@
 		84F7FAD61BD8802400DDD107 /* Closures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Closures.playground; sourceTree = "<group>"; };
 		84F7FAD71BD887CA00DDD107 /* Enumeration.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enumeration.playground; sourceTree = "<group>"; };
 		84F7FAD81BD8C5DA00DDD107 /* ClassAndStruct.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ClassAndStruct.playground; sourceTree = "<group>"; };
+		84F997401BDF11070019D7D3 /* ARC.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ARC.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +135,7 @@
 				8443CB2D1BDDEFC300A8D6A9 /* Mobile.m */,
 				8443CB2B1BDDEFC200A8D6A9 /* swiftTest-Bridging-Header.h */,
 				8443CB2F1BDDF00C00A8D6A9 /* SwiftMobile.swift */,
+				84F997401BDF11070019D7D3 /* ARC.playground */,
 			);
 			path = swiftTest;
 			sourceTree = "<group>";
