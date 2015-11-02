@@ -59,11 +59,18 @@
 		8443CB2C1BDDEFC300A8D6A9 /* Mobile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Mobile.h; sourceTree = "<group>"; };
 		8443CB2D1BDDEFC300A8D6A9 /* Mobile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Mobile.m; sourceTree = "<group>"; };
 		8443CB2F1BDDF00C00A8D6A9 /* SwiftMobile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftMobile.swift; sourceTree = "<group>"; };
+		844E2B3A1BE6F879002D36F9 /* Advanced Operators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Advanced Operators.playground"; sourceTree = "<group>"; };
+		8456498D1BE1B0D200C1FC42 /* Nested Types.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Nested Types.playground"; sourceTree = "<group>"; };
+		8456498E1BE1BADF00C1FC42 /* ExtensionAndProtocols.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ExtensionAndProtocols.playground; sourceTree = "<group>"; };
+		84F2DD671BE306290068BD46 /* Generics.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Generics.playground; sourceTree = "<group>"; };
+		84F2DD681BE312B90068BD46 /* Access Control.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Access Control.playground"; sourceTree = "<group>"; };
 		84F6D01E1BD4D39F0067E0AC /* String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = String.playground; sourceTree = "<group>"; };
 		84F6D01F1BD4E06F0067E0AC /* CollectionTypes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CollectionTypes.playground; sourceTree = "<group>"; };
 		84F7FAD61BD8802400DDD107 /* Closures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Closures.playground; sourceTree = "<group>"; };
 		84F7FAD71BD887CA00DDD107 /* Enumeration.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enumeration.playground; sourceTree = "<group>"; };
 		84F7FAD81BD8C5DA00DDD107 /* ClassAndStruct.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ClassAndStruct.playground; sourceTree = "<group>"; };
+		84F9691E1BE064C500EF6071 /* ErrorHandle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ErrorHandle.playground; sourceTree = "<group>"; };
+		84F9691F1BE06A7B00EF6071 /* Type Casting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Type Casting.playground"; sourceTree = "<group>"; };
 		84F997401BDF11070019D7D3 /* ARC.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ARC.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -136,6 +143,13 @@
 				8443CB2B1BDDEFC200A8D6A9 /* swiftTest-Bridging-Header.h */,
 				8443CB2F1BDDF00C00A8D6A9 /* SwiftMobile.swift */,
 				84F997401BDF11070019D7D3 /* ARC.playground */,
+				84F9691E1BE064C500EF6071 /* ErrorHandle.playground */,
+				84F9691F1BE06A7B00EF6071 /* Type Casting.playground */,
+				8456498D1BE1B0D200C1FC42 /* Nested Types.playground */,
+				8456498E1BE1BADF00C1FC42 /* ExtensionAndProtocols.playground */,
+				84F2DD671BE306290068BD46 /* Generics.playground */,
+				84F2DD681BE312B90068BD46 /* Access Control.playground */,
+				844E2B3A1BE6F879002D36F9 /* Advanced Operators.playground */,
 			);
 			path = swiftTest;
 			sourceTree = "<group>";
